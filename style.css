@@ -1,0 +1,44 @@
+body{
+    background: url(background.jpg);
+}
+h1 {
+    text-align: center;
+}
+/* label {
+    display: inline-block;
+    margin-right: 10px;
+} */
+.t{
+    position: absolute;
+    left: 510px;
+    top: 278px;
+    margin-right: 60px;
+  
+}
+.t1{
+    position: absolute;
+    left: 646px;
+    top: 278px;
+}
+.c{
+    position: absolute;
+    left: 552px;
+    top: 336px;
+}
+.f{
+    position: absolute;
+    left: 672px;
+    top: 336px;
+}
+.con{
+    position: absolute;
+    left: 636px;
+    top: 389px;
+}
+.res{
+    position: absolute;
+    left: 636px;
+    top: 489px;
+}
+  
+  
